@@ -198,6 +198,14 @@
 
     &.site-title {
       margin-left: 0;
+    
+      font-size: 55px;
+      color: #EE6C15;
+      -webkit-text-stroke: 0.3px #282524;
+      @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+      font-family: 'Mouse Memoirs', sans-serif;
+      letter-spacing: 2px;
+      word-spacing: 7px;
     }
   }
 
@@ -232,6 +240,12 @@
       -webkit-box-flex: 0;
       -ms-flex: none;
       flex: none;
+      
+      font-size: 35px;
+
+      @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+      font-family: 'Mouse Memoirs', sans-serif;
+      word-spacing: 7px;
     }
 
     a {
