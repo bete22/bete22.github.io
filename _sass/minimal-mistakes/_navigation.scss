@@ -199,11 +199,10 @@
     &.site-title {
       margin-left: 0;
     
-      font-size: 55px;
+      font-size: 40px;
       color: #EE6C15;
-      -webkit-text-stroke: 0.3px #282524;
-      @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
-      font-family: 'Mouse Memoirs', sans-serif;
+      -webkit-text-stroke: 2px #282524;
+  
       letter-spacing: 2px;
       word-spacing: 7px;
     }
@@ -241,10 +240,8 @@
       -ms-flex: none;
       flex: none;
       
-      font-size: 35px;
+      font-size: 25px;
 
-      @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
-      font-family: 'Mouse Memoirs', sans-serif;
       word-spacing: 7px;
     }
 
